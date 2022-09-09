@@ -11,8 +11,6 @@ http://127.0.0.1:6878/ace/getstream?id=56874272f8a5dad8799154ca5231ac41bf2a40e1
 http://127.0.0.1:6878/ace/getstream?id=18dc2b7f5fc768da4a9920a910fce73dc340ff7c
 #EXTINF:-1 group-title="nachete" tvg-id="MATCH 2 TV" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-match-football-2-734.png" ,MATCH 2 TV%
 http://127.0.0.1:6878/ace/getstream?id=af03486f81f5cc38541348a9c04deda35e5ba41b
-#EXTINF:-1 group-title="nachete" tvg-id="MATCH 1 TV" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-match-football-1-733.png" ,MATCH 1 TV%
-http://127.0.0.1:6878/ace/getstream?id=9246b82fdb20115b6d8857cacaf1de3fab43caab
 #EXTINF:-1 group-title="DAZN LaLiga" tvg-id="DAZN LaLigaHD" tvg-logo="https://img.sport-tv-guide.live/images/stations/a2784.png" ,DAZN LA LIGA
 http://127.0.0.1:6878/ace/getstream?id=87f6fbf3b63bb6bd36eea2793a0a2a647ec287dd
 #EXTINF:-1 group-title="DAZN LaLiga" tvg-id="DAZN LaLigaHD" tvg-logo="https://img.sport-tv-guide.live/images/stations/a2784.png" ,DAZN laliga 1080 Multi Test
