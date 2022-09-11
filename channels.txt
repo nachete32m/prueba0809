@@ -13,6 +13,20 @@ http://127.0.0.1:6878/ace/getstream?id=9246b82fdb20115b6d8857cacaf1de3fab43caab
 http://127.0.0.1:6878/ace/getstream?id=af03486f81f5cc38541348a9c04deda35e5ba41b
 #EXTINF:-1 group-title="nachete" tvg-id="OTROS" tvg-logo="https://i.imgur.com/U4w7Bgy.png" ,MATCH 3 TV%
 http://127.0.0.1:6878/ace/getstream?id=18dc2b7f5fc768da4a9920a910fce73dc340ff7c
+#EXTINF:-1 group-title="nachete" tvg-id="EUROSPORT2HD" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-es-eurosport-2-616.png" ,Eurosport 2 HD%
+http://127.0.0.1:6878/ace/getstream?id=67fb6831cac7ed3d3ae6ca5c164b819db46bd629
+#EXTINF:-1 group-title="nachete" tvg-id="OTROS" tvg-logo="https://i.imgur.com/U4w7Bgy.png" ,BT SPORT 1%
+http://127.0.0.1:6878/ace/getstream?id=efc60cfe5e3a349baa02bcc49f6647c21a9c3c5b
+#EXTINF:-1 group-title="nachete" tvg-id="OTROS" tvg-logo="https://i.imgur.com/U4w7Bgy.png" ,BT SPORT 3%
+http://127.0.0.1:6878/ace/getstream?id=5f966c123759de46dff29c379266b7a403452033
+#EXTINF:-1 group-title="nachete" tvg-id="BEIN SPORTS" tvg-logo="https://i.imgur.com/XcjYBfj.png" ,BEIN SPORT EXTRA Ñ%
+http://127.0.0.1:6878/ace/getstream?id=b5c017e94b72013902c02f6d145c77f753bc3e12
+#EXTINF:-1 group-title="nachete" tvg-id="OTROS" tvg-logo="https://i.imgur.com/U4w7Bgy.png" ,SKY SPORT F1 [DE]%
+http://127.0.0.1:6878/ace/getstream?id=b04372b9543d763bd2dbd2a1842d9723fd080076
+#EXTINF:-1 group-title="nachete" tvg-id="OTROS" tvg-logo="https://i.imgur.com/U4w7Bgy.png" ,ELEVEN SPORT 1 [BE]%
+http://127.0.0.1:6878/ace/getstream?id=36cad67fed5a739757a9db844a551aa845a8d51b
+#EXTINF:-1 group-title="nachete" tvg-id="OTROS" tvg-logo="https://i.imgur.com/U4w7Bgy.png" ,ELEVEN SPORT 2 [BE]%
+http://127.0.0.1:6878/ace/getstream?id=d08013df6e437a1fdf1e0c34f573fdf6a40c7fce
 #EXTINF:-1 group-title="DAZN LaLiga" tvg-id="DAZN LaLigaHD" tvg-logo="https://img.sport-tv-guide.live/images/stations/a2784.png" ,DAZN LA LIGA
 http://127.0.0.1:6878/ace/getstream?id=87f6fbf3b63bb6bd36eea2793a0a2a647ec287dd
 #EXTINF:-1 group-title="DAZN LaLiga" tvg-id="DAZN LaLigaHD" tvg-logo="https://img.sport-tv-guide.live/images/stations/a2784.png" ,DAZN laliga 1080 Multi Test
@@ -57,6 +71,10 @@ http://127.0.0.1:6878/ace/getstream?id=bfbcda5a0999256360ce560caf2a6473aafc3f11
 http://127.0.0.1:6878/ace/getstream?id=a0465ef421f30d0c68ff706654147762ec7b6c03
 #EXTINF:-1 group-title="DAZN" tvg-id="DAZN 1" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-dazn-1-es-2510.png" ,Dazn1_720 
 http://127.0.0.1:6878/ace/getstream?id=dfe2be8e254ceb5b2bd990b9d9877ebcc01e51da
+#EXTINF:-1 group-title="DAZN" tvg-id="DAZN 1" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-dazn-1-es-2510.png" ,DAZN 1 BAR HD [DE]
+http://127.0.0.1:6878/ace/getstream?id=897e73c9d578848f596585314ecb9ae067c0e229
+#EXTINF:-1 group-title="DAZN" tvg-id="DAZN 2" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-dazn-2-es-2511.png" ,DAZN 2 BAR HD [DE]
+http://127.0.0.1:6878/ace/getstream?id=12ea555d431dbe51fc8e4ca745aec09fe22a4865
 #EXTINF:-1 group-title="DAZN" tvg-id="DAZN 1" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-dazn-1-es-2510.png" ,Dazn 1 HD
 http://127.0.0.1:6878/ace/getstream?id=26fde3b656ab412ce1bea40f20bb45d67c519013
 #EXTINF:-1 group-title="DAZN" tvg-id="DAZN 1" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-dazn-1-es-2510.png" ,DAZN 1 720
@@ -219,6 +237,8 @@ http://127.0.0.1:6878/ace/getstream?id=3c81c395fc9385c650e0fba8c286935c594f7e1a
 http://127.0.0.1:6878/ace/getstream?id=52d37ff3be2cbbaba92fb0da2abf7c9c4c4568ca
 #EXTINF:-1 group-title="Otro contenido" tvg-id="BARCA TV" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-barca-tv-1456.png" ,Barça HD
 http://127.0.0.1:6878/ace/getstream?id=65c141632af256d70da66c767ba74360042b4396
+#EXTINF:-1 group-title="Otro contenido" tvg-id="OTROS" tvg-logo="https://i.imgur.com/U4w7Bgy.png" ,BT SPORT 2$
+http://127.0.0.1:6878/ace/getstream?id=d63d8a57cf471394bfa9f619bbd68b01ae27a801
 #EXTINF:-1 group-title="Otro contenido" tvg-id="ELLAS" tvg-logo="https://i.imgur.com/OJaEosP.png" ,Ellas # V
 http://127.0.0.1:6878/ace/getstream?id=475f2c6ddf64b8f165a55046e8bc03b49cfe25cd
 #EXTINF:-1 group-title="Otro contenido" tvg-id="NAT GEO HD" tvg-logo="https://i.postimg.cc/CMb7QnfM/natgeo.png" ,NAT GEO HD
