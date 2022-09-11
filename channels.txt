@@ -17,6 +17,8 @@ http://127.0.0.1:6878/ace/getstream?id=4e53c6a8f2847a18d9cbc30aecf23e1f51d1e018
 http://127.0.0.1:6878/ace/getstream?id=67fb6831cac7ed3d3ae6ca5c164b819db46bd629
 #EXTINF:-1 group-title="nachete" tvg-id="BT SPORT 1" tvg-logo="https://archive.org/download/BtSport1/bt%20sport%201.png" ,BT SPORT 1%
 http://127.0.0.1:6878/ace/getstream?id=efc60cfe5e3a349baa02bcc49f6647c21a9c3c5b
+#EXTINF:-1 group-title="nachete" tvg-id="BT SPORT 2" tvg-logo="https://ia800805.us.archive.org/4/items/BtSport2Hd/bt%20sport%202%20hd.png" ,BT SPORT 2%
+http://127.0.0.1:6878/ace/getstream?id=d63d8a57cf471394bfa9f619bbd68b01ae27a801
 #EXTINF:-1 group-title="nachete" tvg-id="BT SPORT 3" tvg-logo="https://archive.org/download/BtSport3/bt%20sport%203.png" ,BT SPORT 3%
 http://127.0.0.1:6878/ace/getstream?id=5f966c123759de46dff29c379266b7a403452033
 #EXTINF:-1 group-title="nachete" tvg-id="BEIN SPORTS" tvg-logo="https://i.imgur.com/XcjYBfj.png" ,BEIN SPORT EXTRA Ñ%
@@ -237,8 +239,6 @@ http://127.0.0.1:6878/ace/getstream?id=3c81c395fc9385c650e0fba8c286935c594f7e1a
 http://127.0.0.1:6878/ace/getstream?id=52d37ff3be2cbbaba92fb0da2abf7c9c4c4568ca
 #EXTINF:-1 group-title="Otro contenido" tvg-id="BARCA TV" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-barca-tv-1456.png" ,Barça HD
 http://127.0.0.1:6878/ace/getstream?id=65c141632af256d70da66c767ba74360042b4396
-#EXTINF:-1 group-title="Otro contenido" tvg-id="BT SPORT 2" tvg-logo="https://ia800805.us.archive.org/4/items/BtSport2Hd/bt%20sport%202%20hd.png" ,BT SPORT 2$
-http://127.0.0.1:6878/ace/getstream?id=d63d8a57cf471394bfa9f619bbd68b01ae27a801
 #EXTINF:-1 group-title="Otro contenido" tvg-id="ELLAS" tvg-logo="https://i.imgur.com/OJaEosP.png" ,Ellas # V
 http://127.0.0.1:6878/ace/getstream?id=475f2c6ddf64b8f165a55046e8bc03b49cfe25cd
 #EXTINF:-1 group-title="Otro contenido" tvg-id="NAT GEO HD" tvg-logo="https://i.postimg.cc/CMb7QnfM/natgeo.png" ,NAT GEO HD
